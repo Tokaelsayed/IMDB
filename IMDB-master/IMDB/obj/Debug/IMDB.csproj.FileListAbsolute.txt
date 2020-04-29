@@ -1,0 +1,17 @@
+E:\collage\3rd year\second semester\projects\IMDB\IMDB\bin\Debug\IMDB.exe.config
+E:\collage\3rd year\second semester\projects\IMDB\IMDB\bin\Debug\IMDB.exe
+E:\collage\3rd year\second semester\projects\IMDB\IMDB\bin\Debug\IMDB.pdb
+E:\collage\3rd year\second semester\projects\IMDB\IMDB\obj\Debug\IMDB.csprojAssemblyReference.cache
+E:\collage\3rd year\second semester\projects\IMDB\IMDB\obj\Debug\IMDB.AddMovie.resources
+E:\collage\3rd year\second semester\projects\IMDB\IMDB\obj\Debug\IMDB.DeleteMovie.resources
+E:\collage\3rd year\second semester\projects\IMDB\IMDB\obj\Debug\IMDB.Form1.resources
+E:\collage\3rd year\second semester\projects\IMDB\IMDB\obj\Debug\IMDB.login.resources
+E:\collage\3rd year\second semester\projects\IMDB\IMDB\obj\Debug\IMDB.Properties.Resources.resources
+E:\collage\3rd year\second semester\projects\IMDB\IMDB\obj\Debug\IMDB.Recommend.resources
+E:\collage\3rd year\second semester\projects\IMDB\IMDB\obj\Debug\IMDB.search.resources
+E:\collage\3rd year\second semester\projects\IMDB\IMDB\obj\Debug\IMDB.UpdateMovie.resources
+E:\collage\3rd year\second semester\projects\IMDB\IMDB\obj\Debug\IMDB.csproj.GenerateResource.cache
+E:\collage\3rd year\second semester\projects\IMDB\IMDB\obj\Debug\IMDB.csproj.CoreCompileInputs.cache
+E:\collage\3rd year\second semester\projects\IMDB\IMDB\obj\Debug\IMDB.csproj.CopyComplete
+E:\collage\3rd year\second semester\projects\IMDB\IMDB\obj\Debug\IMDB.exe
+E:\collage\3rd year\second semester\projects\IMDB\IMDB\obj\Debug\IMDB.pdb
